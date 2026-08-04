@@ -14,7 +14,7 @@ Download [Chest X-Ray Images (Kermany)](https://www.kaggle.com/datasets/paultimo
 
 ## How to Run
 
-**Step 1 — Train (requires GPU, ≥8 GB VRAM):**
+**Step 1 - Train (requires GPU, ≥8 GB VRAM):**
 
 Run each notebook top to bottom in this order:
 
