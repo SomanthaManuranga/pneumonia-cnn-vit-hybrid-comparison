@@ -24,7 +24,7 @@ Run each notebook top to bottom in this order:
 
 Checkpoints are saved to `checkpoints/`, results to `results/`.
 
-**Step 2 — Explainability:**
+**Step 2 - Explainability:**
 
 After all three models are trained, run `GradCAM_analysis.ipynb`.
 Outputs: heatmap grid and metric scores saved to `results/`.
