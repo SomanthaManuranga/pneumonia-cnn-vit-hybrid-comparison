@@ -1,4 +1,4 @@
-# Pneumonia Detection - CNN vs Transformer Comparison
+# Pneumonia Detection - CNN vs ViT and Hybrid Architechture Comparison
 
 Compares ResNet-50, ViT-Base, and TinyViT-21M on chest X-ray classification and Grad-CAM explainability.
 
