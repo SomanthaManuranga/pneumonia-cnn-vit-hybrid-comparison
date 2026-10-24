@@ -1,0 +1,12 @@
+# Install a CUDA build of PyTorch first: https://pytorch.org/get-started/locally/
+torch>=2.1
+torchvision>=0.16
+timm>=0.9.12          # needs tiny_vit_21m_384
+grad-cam>=1.5         # pytorch-grad-cam (imported as pytorch_grad_cam)
+scikit-learn>=1.3
+scipy>=1.10
+numpy>=1.24
+pillow>=10.0
+matplotlib>=3.7
+tqdm>=4.66
+jupyter

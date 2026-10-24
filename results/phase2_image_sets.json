@@ -1,0 +1,2156 @@
+{
+  "quantitative": [
+    {
+      "index": 8,
+      "filename": "IM-0011-0001-0002.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 10,
+      "filename": "IM-0013-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 12,
+      "filename": "IM-0016-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 13,
+      "filename": "IM-0017-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 15,
+      "filename": "IM-0021-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 19,
+      "filename": "IM-0027-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 21,
+      "filename": "IM-0029-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 27,
+      "filename": "IM-0035-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 28,
+      "filename": "IM-0036-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 29,
+      "filename": "IM-0037-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 32,
+      "filename": "IM-0043-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 34,
+      "filename": "IM-0046-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 36,
+      "filename": "IM-0050-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 37,
+      "filename": "IM-0059-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 39,
+      "filename": "IM-0063-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 47,
+      "filename": "IM-0077-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 48,
+      "filename": "IM-0079-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 55,
+      "filename": "IM-0089-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 57,
+      "filename": "IM-0093-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 60,
+      "filename": "IM-0099-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 63,
+      "filename": "IM-0103-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 64,
+      "filename": "IM-0105-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 65,
+      "filename": "IM-0107-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 66,
+      "filename": "IM-0109-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 68,
+      "filename": "IM-0111-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 69,
+      "filename": "NORMAL2-IM-0007-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 72,
+      "filename": "NORMAL2-IM-0019-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 74,
+      "filename": "NORMAL2-IM-0027-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 76,
+      "filename": "NORMAL2-IM-0029-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 77,
+      "filename": "NORMAL2-IM-0030-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 80,
+      "filename": "NORMAL2-IM-0041-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 81,
+      "filename": "NORMAL2-IM-0045-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 87,
+      "filename": "NORMAL2-IM-0066-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 88,
+      "filename": "NORMAL2-IM-0072-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 89,
+      "filename": "NORMAL2-IM-0073-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 93,
+      "filename": "NORMAL2-IM-0092-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 94,
+      "filename": "NORMAL2-IM-0095-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 95,
+      "filename": "NORMAL2-IM-0096-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 97,
+      "filename": "NORMAL2-IM-0102-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 99,
+      "filename": "NORMAL2-IM-0107-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 103,
+      "filename": "NORMAL2-IM-0117-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 104,
+      "filename": "NORMAL2-IM-0120-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 105,
+      "filename": "NORMAL2-IM-0123-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 106,
+      "filename": "NORMAL2-IM-0129-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 108,
+      "filename": "NORMAL2-IM-0131-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 109,
+      "filename": "NORMAL2-IM-0132-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 112,
+      "filename": "NORMAL2-IM-0141-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 117,
+      "filename": "NORMAL2-IM-0173-0001-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 120,
+      "filename": "NORMAL2-IM-0196-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 123,
+      "filename": "NORMAL2-IM-0201-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 124,
+      "filename": "NORMAL2-IM-0206-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 128,
+      "filename": "NORMAL2-IM-0217-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 132,
+      "filename": "NORMAL2-IM-0229-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 133,
+      "filename": "NORMAL2-IM-0232-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 137,
+      "filename": "NORMAL2-IM-0241-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 138,
+      "filename": "NORMAL2-IM-0246-0001-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 140,
+      "filename": "NORMAL2-IM-0246-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 142,
+      "filename": "NORMAL2-IM-0251-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 143,
+      "filename": "NORMAL2-IM-0252-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 145,
+      "filename": "NORMAL2-IM-0259-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 146,
+      "filename": "NORMAL2-IM-0267-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 148,
+      "filename": "NORMAL2-IM-0272-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 150,
+      "filename": "NORMAL2-IM-0274-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 154,
+      "filename": "NORMAL2-IM-0278-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 156,
+      "filename": "NORMAL2-IM-0280-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 158,
+      "filename": "NORMAL2-IM-0282-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 162,
+      "filename": "NORMAL2-IM-0287-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 163,
+      "filename": "NORMAL2-IM-0288-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 170,
+      "filename": "NORMAL2-IM-0301-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 171,
+      "filename": "NORMAL2-IM-0302-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 174,
+      "filename": "NORMAL2-IM-0305-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 175,
+      "filename": "NORMAL2-IM-0307-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 178,
+      "filename": "NORMAL2-IM-0311-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 179,
+      "filename": "NORMAL2-IM-0312-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 181,
+      "filename": "NORMAL2-IM-0315-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 182,
+      "filename": "NORMAL2-IM-0316-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 184,
+      "filename": "NORMAL2-IM-0319-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 186,
+      "filename": "NORMAL2-IM-0322-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 191,
+      "filename": "NORMAL2-IM-0328-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 192,
+      "filename": "NORMAL2-IM-0329-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 194,
+      "filename": "NORMAL2-IM-0331-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 196,
+      "filename": "NORMAL2-IM-0333-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 200,
+      "filename": "NORMAL2-IM-0338-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 201,
+      "filename": "NORMAL2-IM-0339-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 202,
+      "filename": "NORMAL2-IM-0340-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 205,
+      "filename": "NORMAL2-IM-0345-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 206,
+      "filename": "NORMAL2-IM-0346-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 208,
+      "filename": "NORMAL2-IM-0348-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 209,
+      "filename": "NORMAL2-IM-0349-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 210,
+      "filename": "NORMAL2-IM-0350-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 212,
+      "filename": "NORMAL2-IM-0352-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 213,
+      "filename": "NORMAL2-IM-0353-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 214,
+      "filename": "NORMAL2-IM-0354-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 215,
+      "filename": "NORMAL2-IM-0357-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 219,
+      "filename": "NORMAL2-IM-0362-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 221,
+      "filename": "NORMAL2-IM-0366-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 222,
+      "filename": "NORMAL2-IM-0368-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 225,
+      "filename": "NORMAL2-IM-0372-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 226,
+      "filename": "NORMAL2-IM-0373-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 227,
+      "filename": "NORMAL2-IM-0374-0001-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 240,
+      "filename": "person100_bacteria_482.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 242,
+      "filename": "person101_bacteria_484.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 248,
+      "filename": "person103_bacteria_490.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 258,
+      "filename": "person109_bacteria_519.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 262,
+      "filename": "person109_bacteria_527.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 263,
+      "filename": "person109_bacteria_528.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 264,
+      "filename": "person10_virus_35.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 265,
+      "filename": "person110_bacteria_531.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 270,
+      "filename": "person111_bacteria_537.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 273,
+      "filename": "person113_bacteria_540.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 280,
+      "filename": "person117_bacteria_553.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 284,
+      "filename": "person118_bacteria_560.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 289,
+      "filename": "person11_virus_38.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 290,
+      "filename": "person120_bacteria_570.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 294,
+      "filename": "person121_bacteria_575.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 295,
+      "filename": "person121_bacteria_576.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 297,
+      "filename": "person121_bacteria_579.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 298,
+      "filename": "person121_bacteria_580.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 312,
+      "filename": "person126_bacteria_598.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 313,
+      "filename": "person126_bacteria_599.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 317,
+      "filename": "person127_bacteria_604.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 330,
+      "filename": "person133_bacteria_634.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 335,
+      "filename": "person134_bacteria_641.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 336,
+      "filename": "person134_bacteria_642.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 340,
+      "filename": "person135_bacteria_647.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 344,
+      "filename": "person136_bacteria_652.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 347,
+      "filename": "person138_bacteria_657.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 358,
+      "filename": "person141_bacteria_670.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 361,
+      "filename": "person141_bacteria_678.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 369,
+      "filename": "person144_bacteria_690.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 371,
+      "filename": "person146_bacteria_700.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 372,
+      "filename": "person146_bacteria_703.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 374,
+      "filename": "person147_bacteria_705.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 376,
+      "filename": "person147_bacteria_707.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 379,
+      "filename": "person14_virus_44.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 383,
+      "filename": "person151_bacteria_718.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 387,
+      "filename": "person152_bacteria_723.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 394,
+      "filename": "person155_bacteria_731.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 399,
+      "filename": "person158_bacteria_743.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 403,
+      "filename": "person159_bacteria_747.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 404,
+      "filename": "person15_virus_46.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 405,
+      "filename": "person1608_virus_2786.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 409,
+      "filename": "person1613_virus_2799.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 411,
+      "filename": "person1615_virus_2801.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 414,
+      "filename": "person1619_virus_2806.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 415,
+      "filename": "person161_bacteria_757.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 418,
+      "filename": "person1620_virus_2807.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 428,
+      "filename": "person1632_virus_2827.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 435,
+      "filename": "person1642_virus_2842.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 440,
+      "filename": "person1649_virus_2850.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 441,
+      "filename": "person1650_virus_2852.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 444,
+      "filename": "person1653_virus_2858.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 445,
+      "filename": "person1653_virus_2859.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 447,
+      "filename": "person1656_virus_2862.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 450,
+      "filename": "person1660_virus_2869.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 451,
+      "filename": "person1661_virus_2872.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 454,
+      "filename": "person1663_virus_2876.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 455,
+      "filename": "person1664_virus_2877.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 459,
+      "filename": "person1669_virus_2884.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 461,
+      "filename": "person1670_virus_2886.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 462,
+      "filename": "person1671_virus_2887.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 468,
+      "filename": "person1678_virus_2895.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 469,
+      "filename": "person1679_virus_2896.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 473,
+      "filename": "person16_virus_47.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 480,
+      "filename": "person174_bacteria_832.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 485,
+      "filename": "person18_virus_49.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 490,
+      "filename": "person1_virus_6.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 491,
+      "filename": "person1_virus_7.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 500,
+      "filename": "person24_virus_58.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 501,
+      "filename": "person25_virus_59.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 510,
+      "filename": "person34_virus_76.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 513,
+      "filename": "person37_virus_82.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 514,
+      "filename": "person38_virus_83.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 522,
+      "filename": "person42_virus_89.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 523,
+      "filename": "person43_virus_92.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 535,
+      "filename": "person53_virus_108.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 542,
+      "filename": "person61_virus_118.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 561,
+      "filename": "person78_bacteria_382.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 562,
+      "filename": "person78_bacteria_384.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 563,
+      "filename": "person78_bacteria_385.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 568,
+      "filename": "person80_bacteria_389.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 579,
+      "filename": "person82_bacteria_404.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 581,
+      "filename": "person83_bacteria_407.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 583,
+      "filename": "person83_bacteria_410.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 584,
+      "filename": "person83_bacteria_411.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 585,
+      "filename": "person83_bacteria_412.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 586,
+      "filename": "person83_bacteria_414.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 587,
+      "filename": "person85_bacteria_417.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 588,
+      "filename": "person85_bacteria_419.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 590,
+      "filename": "person85_bacteria_422.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 591,
+      "filename": "person85_bacteria_423.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 595,
+      "filename": "person87_bacteria_433.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 598,
+      "filename": "person88_bacteria_438.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 600,
+      "filename": "person89_bacteria_440.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 603,
+      "filename": "person90_bacteria_442.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 608,
+      "filename": "person91_bacteria_448.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 610,
+      "filename": "person92_bacteria_450.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 611,
+      "filename": "person92_bacteria_451.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 613,
+      "filename": "person93_bacteria_454.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 616,
+      "filename": "person94_bacteria_458.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    }
+  ],
+  "qualitative": [
+    {
+      "index": 16,
+      "filename": "IM-0022-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 45,
+      "filename": "IM-0073-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 47,
+      "filename": "IM-0077-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 52,
+      "filename": "IM-0085-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 56,
+      "filename": "IM-0091-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 57,
+      "filename": "IM-0093-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 62,
+      "filename": "IM-0102-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 66,
+      "filename": "IM-0109-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 73,
+      "filename": "NORMAL2-IM-0023-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 80,
+      "filename": "NORMAL2-IM-0041-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 153,
+      "filename": "NORMAL2-IM-0277-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 162,
+      "filename": "NORMAL2-IM-0287-0001.jpeg",
+      "true_label": 0,
+      "preds": {
+        "resnet50": 0,
+        "vit_base_patch16_384": 0,
+        "tiny_vit_21m_384": 0
+      }
+    },
+    {
+      "index": 472,
+      "filename": "person1685_virus_2903.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 579,
+      "filename": "person82_bacteria_404.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    },
+    {
+      "index": 609,
+      "filename": "person91_bacteria_449.jpeg",
+      "true_label": 1,
+      "preds": {
+        "resnet50": 1,
+        "vit_base_patch16_384": 1,
+        "tiny_vit_21m_384": 1
+      }
+    }
+  ]
+}

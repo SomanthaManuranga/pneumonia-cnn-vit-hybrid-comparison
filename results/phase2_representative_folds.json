@@ -1,0 +1,108 @@
+{
+  "per_fold_test": {
+    "resnet50": [
+      [
+        "resnet50_fold0_best.pth",
+        0.8902310924369748,
+        0.8942307692307693
+      ],
+      [
+        "resnet50_fold1_best.pth",
+        0.9416095199677289,
+        0.9423076923076923
+      ],
+      [
+        "resnet50_fold2_best.pth",
+        0.9093100350941844,
+        0.9118589743589743
+      ],
+      [
+        "resnet50_fold3_best.pth",
+        0.9381447657703365,
+        0.9391025641025641
+      ],
+      [
+        "resnet50_fold4_best.pth",
+        0.927812617799253,
+        0.9294871794871795
+      ]
+    ],
+    "vit_base_patch16_384": [
+      [
+        "vit_base_patch16_384_fold0_best.pth",
+        0.922055174427091,
+        0.9230769230769231
+      ],
+      [
+        "vit_base_patch16_384_fold1_best.pth",
+        0.8304861633477176,
+        0.8413461538461539
+      ],
+      [
+        "vit_base_patch16_384_fold2_best.pth",
+        0.9083755046341048,
+        0.9102564102564102
+      ],
+      [
+        "vit_base_patch16_384_fold3_best.pth",
+        0.9201896429929902,
+        0.9198717948717948
+      ],
+      [
+        "vit_base_patch16_384_fold4_best.pth",
+        0.9219621962196219,
+        0.9230769230769231
+      ]
+    ],
+    "tiny_vit_21m_384": [
+      [
+        "tiny_vit_21m_384_fold0_best.pth",
+        0.9432640239551122,
+        0.9439102564102564
+      ],
+      [
+        "tiny_vit_21m_384_fold1_best.pth",
+        0.95796992481203,
+        0.9583333333333334
+      ],
+      [
+        "tiny_vit_21m_384_fold2_best.pth",
+        0.9330501990677113,
+        0.9342948717948718
+      ],
+      [
+        "tiny_vit_21m_384_fold3_best.pth",
+        0.9314615201711975,
+        0.9326923076923077
+      ],
+      [
+        "tiny_vit_21m_384_fold4_best.pth",
+        0.9347252573059024,
+        0.9358974358974359
+      ]
+    ]
+  },
+  "representative": {
+    "resnet50": {
+      "type": "CNN",
+      "checkpoint": "resnet50_fold4_best.pth",
+      "test_f1": 0.927812617799253,
+      "test_acc": 0.9294871794871795,
+      "mean_fold_test_f1": 0.9214216062136955
+    },
+    "vit_base_patch16_384": {
+      "type": "Transformer",
+      "checkpoint": "vit_base_patch16_384_fold2_best.pth",
+      "test_f1": 0.9083755046341048,
+      "test_acc": 0.9102564102564102,
+      "mean_fold_test_f1": 0.9006137363243051
+    },
+    "tiny_vit_21m_384": {
+      "type": "Hybrid",
+      "checkpoint": "tiny_vit_21m_384_fold0_best.pth",
+      "test_f1": 0.9432640239551122,
+      "test_acc": 0.9439102564102564,
+      "mean_fold_test_f1": 0.9400941850623907
+    }
+  }
+}

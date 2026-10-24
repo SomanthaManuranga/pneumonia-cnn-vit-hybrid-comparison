@@ -1,0 +1,30 @@
+{
+  "inside_body_fraction": {
+    "ResNet-50 (CNN)": {
+      "gradcam": 0.9247501584887504,
+      "gradcam++": 0.9281093075871467
+    },
+    "ViT-Base (Transformer)": {
+      "gradcam": 0.775209057033062,
+      "gradcam++": 0.7523302590847015
+    },
+    "TinyViT (Hybrid)": {
+      "gradcam": 0.8286749403178691,
+      "gradcam++": 0.8243771460652352
+    }
+  },
+  "deletion_auc": {
+    "ResNet-50 (CNN)": {
+      "gradcam": 0.5320755232394537,
+      "gradcam++": 0.5478785012150289
+    },
+    "ViT-Base (Transformer)": {
+      "gradcam": 0.7937351368405431,
+      "gradcam++": 0.7682365369086364
+    },
+    "TinyViT (Hybrid)": {
+      "gradcam": 0.6214704212580435,
+      "gradcam++": 0.6489659797960247
+    }
+  }
+}

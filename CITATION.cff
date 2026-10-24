@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Pneumonia Detection: CNN vs ViT vs Hybrid (TinyViT) with Grad-CAM"
+type: software
+authors:
+  - family-names: Manuranga
+    given-names: Somantha
+    affiliation: "Ostbayerische Technische Hochschule Amberg-Weiden"
+date-released: 2026-06-25
+repository-code: "https://github.com/SomanthaManuranga/pneumonia-cnn-vit-hybrid-comparison"
+license: MIT
+keywords:
+  - pneumonia detection
+  - chest X-ray
+  - vision transformer
+  - TinyViT
+  - Grad-CAM
+  - explainable AI
